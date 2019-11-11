@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/archanakavyan0305/archanakavyan/_apis/build/status/archanakavyan.newproject1?branchName=master)](https://dev.azure.com/archanakavyan0305/archanakavyan/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
@@ -29,3 +30,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
